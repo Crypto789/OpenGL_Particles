@@ -1,0 +1,7 @@
+﻿  Project in Particles.cpp
+C:\Users\Santi\source\repos\Project in Particles\Project in Particles\Project in Particles.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Santi\source\repos\Project in Particles\Project in Particles\Project in Particles.cpp(41,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Santi\source\repos\Project in Particles\Project in Particles\Project in Particles.cpp(43,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Swarm.cpp
+  Generating Code...
+  Project in Particles.vcxproj -> C:\Users\Santi\source\repos\Project in Particles\Debug\Project in Particles.exe
